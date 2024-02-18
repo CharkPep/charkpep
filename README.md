@@ -13,7 +13,7 @@
 
 ## 👤 Me
 
-Backend Guy, previously competitive programmer
+Backend Guy, previously <b>competitive programmer</b>.
 
 ## Projects
 
