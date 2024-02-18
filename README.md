@@ -29,7 +29,7 @@ Backend Guy, previously <b>competitive programmer</b>.
   - 🫵 🇬 🇴 [InvertedIndex](https://github.com/CharkPep/inverted-index)
     - <i>Inverted index</i>
     - Parallelized using Map Reduce
-    - Blazing fast
+    - Blazing fast, [Vbyte](https://pkg.go.dev/github.com/nelz9999/stream-vbyte-go) and delta compressed
 
 ## Ongoing
   - 👾 🟡 👻 [PyPacman](https://github.com/CharkPep/pypacman)
