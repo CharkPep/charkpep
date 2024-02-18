@@ -25,14 +25,15 @@ Backend Guy, previously <b>competitive programmer</b>.
     - <i>Database sharder</i>
     - Consistent hashing
     - Typescript
-    - CRUD operation on distributed table
+    - CRUD operation on a distributed table
   - 🫵 🇬 🇴 [InvertedIndex](https://github.com/CharkPep/inverted-index)
     - <i>Inverted index</i>
     - Parallelized using Map Reduce
     - Blazing fast
 
 ## Ongoing
-  - 👾 🟡 👻 [Original Pacman game]("https://github.com/CharkPep/pypacman")
+  - 👾 🟡 👻 [PyPacman](https://github.com/CharkPep/pypacman)
+    - <b>Pacmannn</b>
     - Original AI and Mechanics recreated in Python
     - Clear and extendable codebase
 
