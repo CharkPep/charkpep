@@ -15,4 +15,4 @@
 
 Backend Guy, previously <b>competitive programmer</b>.
 
-[![Skills](https://skillicons.dev/icons?i=vim,neovim,nestjs,redis,ts,golang,docker,aws,elasticsearch,kafka,rabbitmq,firebase&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vim,neovim,nestjs,redis,ts,golang,docker,aws,elasticsearch,kafka,rabbitmq,firebase,arch,linux&perline=6)](https://skillicons.dev)
