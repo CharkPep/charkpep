@@ -15,26 +15,4 @@
 
 Backend Guy, previously <b>competitive programmer</b>.
 
-## Projects
-
-  - 🐳 🇬 🇴 [Mydocker](https://github.com/CharkPep/mydocker)
-    - <i>Container runtime</i>
-    - Process isolation, File system isolation, Resource isolation
-    - Authentication and Image pulling
-  - 🇹 🇸 [PgSharder](https://github.com/CharkPep/pg-sharded)
-    - <i>Database sharder</i>
-    - Consistent hashing
-    - Typescript
-    - CRUD operation on a distributed table
-  - 🫵 🇬 🇴 [InvertedIndex](https://github.com/CharkPep/inverted-index)
-    - <i>Inverted index</i>
-    - Parallelized using Map Reduce
-    - Blazing fast, [Vbyte](https://pkg.go.dev/github.com/nelz9999/stream-vbyte-go) and delta compressed
-
-## Ongoing
-  - 👾 🟡 👻 [PyPacman](https://github.com/CharkPep/pypacman)
-    - <b>Pacmannn</b>
-    - Original AI and Mechanics recreated in Python
-    - Clear and extendable codebase
-
 [![Skills](https://skillicons.dev/icons?i=vim,neovim,nestjs,redis,ts,golang,docker,aws,elasticsearch,kafka,rabbitmq,firebase&perline=6)](https://skillicons.dev)
